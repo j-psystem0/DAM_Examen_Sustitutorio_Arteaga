@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAM_Examen_Sustitutorio_Arteaga</string>
+    <string name="text1">AULA VIRTUAL</string>
+    <string name="text2">INGRESAR</string>
+    <string name="text3">OLVIDE CONTRASEÑA</string>
+    <string name="text4">USUARIO</string>
+    <string name="text5">CONTRASEÑA</string>
+</resources>
